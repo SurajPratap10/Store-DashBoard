@@ -1,4 +1,4 @@
-# Store-DashBoard
+# Sales-DashBoard
 
 This project encompasses an Excel dashboard designed to conduct thorough data analytics on an annual dataset from a retail store. It explores key aspects such as orders, channels, and customer demographics, offering valuable insights into the store's performance. 
 
